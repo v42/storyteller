@@ -1,0 +1,15 @@
+{
+  "name": "storyteller",
+  "version": "0.0.1",
+  "description": "StoryTeller",
+  "author": [
+    "Vitor Carlos <vitor@v42.com.br>"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "flour": "",
+    "stylus": ""
+  },
+  "repository": "git@github.com:v42/canvas-pong.git",
+  "license": "BSD"
+}

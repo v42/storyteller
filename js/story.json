@@ -1,0 +1,29 @@
+_story({
+	"1": [
+	    	{
+				"image"	: "http://www.wallpapersdb.org/wallpapers/beach/beautiful_shore_2560x1600.jpg"
+			  , "text"	: "A beautiful shore that links to slide 2"
+			  , "link"	: "2"
+		 	}
+		  , {
+				"image"	: "http://creatingnewrealities.files.wordpress.com/2011/07/gravensteen-gent-xndr.jpg"
+			  , "text"	: "A beautiful castle that links to slide 3"
+			  , "link"	: "3"
+			}
+		 ],
+	"2": [
+			{
+				"image"	: "http://designyoutrust.com/wp-content/uploads/2012/09/Devetashka-Cave-Bulgaria.jpg"
+			  , "text"	: "A green cave path linking back to slide 1"
+			  , "link"	: "1"
+			}
+		 ],
+	"3": [
+			{
+				"image"	: "http://www.hdwallpapersinn.com/wp-content/uploads/2012/06/The-best-top-desktop-lion-wallpapers-hd-lion-wallpaper-8.jpg"
+			  , "text"	: "An awesome lion couple linking to slide 2"
+			  , "link"	: "2"
+			}
+		 ]
+})
+

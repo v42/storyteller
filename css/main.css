@@ -1,0 +1,8 @@
+body{background:#000;color:#fff;font-size:2vw;padding:10vh 5vw;margin:0;overflow:hidden}
+.wrapper{width:90vw;transition:all .5s ease-in-out}
+.slide{width:90vw;height:80vh;margin-bottom:10vh;white-space:nowrap;overflow:hidden}
+.frame{display:inline-block;box-sizing:border-box;border:5px solid #fff;border-radius:10px;height:80vh;width:90vw;}
+.double .frame{width:43vw;}
+.double .frame + .frame{margin-left:3vw}
+.image{height:54vh;margin:3vh;background-size:cover;background-position:center center}
+.caption{height:20vh;box-sizing:border-box;padding:3vw 3vh;text-align:center}
